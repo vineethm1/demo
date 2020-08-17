@@ -1,25 +1,22 @@
-{
-   [
-    { 
-      "postid": 1,
-      "id": 1,
-      "name": "Sebastian",
-      "email": "sebastian@codingthesmartway.com",
-      "body":"dsaaaaaaaaaaaaaadssssssss"
-    },
-    {
-      "postid": 1,
-      "id": 2,
-      "name": "Steve"
-      "email": "steve@codingthesmartway.com",
-       "body":"dsaaaaaaaaaaaaaadssssssss"
-    },
-    {
-      "postid": 1,
-      "id": 3,
-      "name": "Ann"
-      "email": "ann@codingthesmartway.com",
-       "body":"dsaaaaaaaaaaaaaadssssssss"
-    }
-  ]
-}
+[{
+		"postid": 1,
+		"id": 1,
+		"name": "Sebastian",
+		"email": "sebastian@codingthesmartway.com",
+		"body": "dsaaaaaaaaaaaaaadssssssss"
+	},
+	{
+		"postid": 1,
+		"id": 2,
+		"name": "Steve",
+		"email": "steve@codingthesmartway.com",
+		"body": "dsaaaaaaaaaaaaaadssssssss"
+	},
+	{
+		"postid": 1,
+		"id": 3,
+		"name": "Ann",
+		"email": "ann@codingthesmartway.com",
+		"body": "dsaaaaaaaaaaaaaadssssssss"
+	}
+]
